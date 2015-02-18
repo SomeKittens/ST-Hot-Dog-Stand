@@ -1,4 +1,4 @@
-# Sublime Text Hot Dog Theme
+# Sublime Text Hot Dog Stand Theme
 
 I'm so, so sorry...
 
